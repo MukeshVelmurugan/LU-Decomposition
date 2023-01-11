@@ -47,8 +47,9 @@ print (x)
 ## Output:
 (i)
 ![lu decomposition](./LU_1.png)
+
+
 (ii)
-## Output:
 ![model](./LU%202.png)
 
 
