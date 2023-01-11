@@ -46,11 +46,13 @@ print (x)
 
 ## Output:
 (i)
-![lu decomposition](./LU_1.png)
+![LU_1](https://user-images.githubusercontent.com/118707363/211878031-2457bbb5-f358-4eb6-91c2-0c2398fd4bf7.png)
+
 
 
 (ii)
-![model](./LU%202.png)
+![LU 2](https://user-images.githubusercontent.com/118707363/211878120-e65aec16-ac6b-46e0-96b5-0d8ef0740ff5.png)
+
 
 
 ## Result:
